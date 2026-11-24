@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MobileAppProject</string>
+    <string name="home_title">Workout Planner</string>
+    <string name="see_workout_plans">View Workout Plan</string>
+    <string name="edit_workout_plan">Edit workout Plan</string>
+    <string name="begin_workout">Begin Workout</string>
 </resources>
